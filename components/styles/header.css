@@ -1,0 +1,45 @@
+.header {
+    display: flex;
+    font-family:cursive;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 10px;
+    background-color: #5459649b;
+    color: rgba(230, 142, 10, 0.897);
+    text-shadow:
+  -1px -1px 0 rgb(0, 0, 0),
+   1px -1px 0 rgb(0, 0, 0),
+  -1px  1px 0 rgb(0, 0, 0),
+   1px  1px 0 rgb(0, 0, 0);
+    
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    transition: transform 0.2s ease-in-out;
+    padding: 0px 625px;
+    
+}
+
+.nav-icons {
+    display: flex;
+    gap: 20px;
+    
+    
+    
+}
+
+.icon {
+    color: rgb(255, 196, 0);
+    text-decoration: none;
+    transition: transform 0.2s ease-in-out;
+    
+}
+
+.icon:hover {
+    transform: scale(1.5);
+}
+.logo:hover{
+    transform: scale(1.2);
+}
