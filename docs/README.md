@@ -13,7 +13,7 @@ TreasureQuest is an interactive quiz game that challenges players with timed puz
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/treasurequest.git
+git clone https://github.com/iamBT7274/TreasureQuest.git
 cd treasurequest
 ```
 
