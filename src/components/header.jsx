@@ -4,7 +4,7 @@ import './styles/header.css'
 const Header = () => {
     return (
         <header className="header">
-            <h1 className="logo">Treasure Game</h1>
+            <h1 className="logo">TreasureQuest</h1>
             <nav className="nav-icons">
                 <Link to="/leaderboard" className="icon">
                     <FaTrophy size={24} />
